@@ -128,12 +128,12 @@ Indiquer le mot de passe utilisé dans MySQL Workbench
   "apiKey": "api-key-formateur"
 }
 ```
-![Capture POSTMAN](docs/PostUserPostman.jpg)
+![Capture POSTMAN](Docs/PostUserPostman.jpg)
 
 ---
 
 ### ✅ GET /users – Liste des utilisateurs
-![Capture POSTMAN](docs/GetAllUsersPostman.jpg)
+![Capture POSTMAN](Docs/GetAllUsersPostman.jpg)
 
 ---
 
